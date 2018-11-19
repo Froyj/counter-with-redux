@@ -1,0 +1,3 @@
+{
+	"payload": "[{\"type\":\"ADD\"},{\"type\":\"ADD_MORE\"},{\"type\":\"RESET\"},{\"type\":\"REMOVE\"},{\"type\":\"REMOVE_MORE\"}]"
+}
